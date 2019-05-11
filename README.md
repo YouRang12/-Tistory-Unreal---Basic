@@ -38,6 +38,10 @@
 
 [Unreal]13.머티리얼 입문 #2 - 텍스처 추가하기 => (http://bitly.kr/r9MT4G)
 
+[Unreal]14.머티리얼 입문 #3 - 마스크 사용하기 => (http://bitly.kr/POdGrF)
+
+[Unreal]15.머티리얼 입문 #4 - 주석달기와 빛나는 물체 => (http://bitly.kr/zGPvOK)
+
 -----------------------------------
 
 
