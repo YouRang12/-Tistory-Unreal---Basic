@@ -51,3 +51,7 @@
 [Unreal]18.UI 알아보기 #1 - 위젯 만들기 => (http://bit.ly/33oxxcZ)
 
 [Unreal]19.UI 알아보기 #2 - 위젯 이벤트 => (http://bit.ly/2YRFckN)
+
+[Unreal]20.UI 알아보기 #3 - 함수를 활용항 바인딩 => (http://bit.ly/2Z3UvHm)
+
+-----------------------------------
